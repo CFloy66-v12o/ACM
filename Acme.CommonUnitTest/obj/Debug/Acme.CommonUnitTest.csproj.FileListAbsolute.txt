@@ -1,0 +1,16 @@
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Acme.CommonUnitTest.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Acme.CommonUnitTest.pdb
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Acme.Common.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Acme.Common.pdb
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\obj\Debug\Acme.CommonUnitTest.csprojAssemblyReference.cache
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\obj\Debug\Acme.CommonUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\obj\Debug\Acme.CommonUnitTest.csproj.CopyComplete
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\obj\Debug\Acme.CommonUnitTest.dll
+C:\Users\Floyd\chris_projects\ACM\Acme.CommonUnitTest\obj\Debug\Acme.CommonUnitTest.pdb
